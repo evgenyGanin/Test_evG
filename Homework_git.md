@@ -55,3 +55,9 @@
 
     git log --oneline --all
 ***
+
+Команда для перемещения по логу на нужный хэш
+
+    git checkout <hash>
+***
+
