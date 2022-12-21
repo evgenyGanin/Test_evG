@@ -1,7 +1,7 @@
 ***
 # **ИНСТРУКЦИЯ ПО РАБОТЕ С ПРОГРАММОЙ GIT**
 
-()[GitVSCode.jpg]
+![images]([GitVSCode.jpg](https://sanet.pics/storage-6/0820/gCOtJGVTa98XYH0U2K0YDHK5lO4bbAtr.jpg))
 
 **Git** - это программа для контроля и сравнения версий кода. Так же применима в повседневной работе с текстом.
 
