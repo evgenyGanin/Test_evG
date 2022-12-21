@@ -43,3 +43,15 @@ GitHub - это огромный архив различного кода
     git push -u origin main
 
 ***
+
+Образец того, как выглядит авторизация локального git с github в сети:
+
+    Select an authentication method for 'https://github.com/':
+    1. Web browser (default)
+    2. Device code
+    3. Personal access token
+    option (enter for default): 1
+    info: please complete authentication in your browser...
+
+ ***
+
